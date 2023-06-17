@@ -3,6 +3,9 @@
 
 Link to tutorial : https://youtu.be/aJSLagM9ISg
 
+Link to PPT :
+https://docs.google.com/presentation/d/1I-uhoOzsNg0dWQg9ICUY_swqBBLnhXMA/edit?usp=sharing&ouid=102751168567469127640&rtpof=true&sd=true
+
 # Law Information ChatBot based on Llama Index and ChatGPT
 
 Welcome to the Law Information ChatBot project! This ChatBot utilizes Facebook's Llama Index for dataset indexing and ChatGpt for generating responses based on custom dataset input. It aims to provide information and answer questions related to law.
