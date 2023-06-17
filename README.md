@@ -1,7 +1,8 @@
-# LPU_chat_build-a-thon
+# LPU Chat Build-a-thon 2023
 
 
-# Law Information ChatBot based on Llama Index and ChatGpt
+
+# Law Information ChatBot based on Llama Index and ChatGPT
 
 Welcome to the Law Information ChatBot project! This ChatBot utilizes Facebook's Llama Index for dataset indexing and ChatGpt for generating responses based on custom dataset input. It aims to provide information and answer questions related to law.
 
