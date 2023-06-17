@@ -1,6 +1,7 @@
 # LPU Chat Build-a-thon 2023
 
 
+Link to tutorial : https://youtu.be/aJSLagM9ISg
 
 # Law Information ChatBot based on Llama Index and ChatGPT
 
